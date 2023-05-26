@@ -1,6 +1,7 @@
 # Za Warudo Archives (Coming soon... eventually 🙄)
 
-![Project Logo](https://github.com/za-warudo-archives/.github/assets/91820515/114c9c47-b6d5-46ca-bbdd-1fbff47063aa)
+![za-warudo](https://github.com/za-warudo-archives/.github/assets/91820515/5c1f0e4b-3731-49cb-92b9-eb95893e84ca)
+
 
 ## Project Overview
 Za Warudo Archives is kinda an educational website that aims to provide an interactive and immersive experience for exploring historical events, social sciences, kingdoms, etc., through maps. Our goal is to create a comprehensive platform where users can learn about various aspects of history, access accurate information, and contribute their knowledge. Lets understand the project overview by an example.
