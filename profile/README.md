@@ -26,3 +26,4 @@ It's a brief description of my thoughts in my mind, and I don't know how it turn
 Alright, alright.. the project is still in the imagination phase and is far from becoming some kind of linux thing. I want to say here that whether I can pull this off or not, I will definetly try to do atleast the stalin example which i've mentioned above.
 
 And any kind of advice or help is highly appreciated.(sponserships are very much appreciated :P cant guarantee the returns tho 😗)
+Anyways, have an amazing day ahead <3333
